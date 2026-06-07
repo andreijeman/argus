@@ -1,0 +1,9 @@
+[submodule "argus-mobile"]
+	path = argus-mobile
+	url = https://github.com/andreijeman/argus-mobile.git
+[submodule "argus-web"]
+	path = argus-web
+	url = https://github.com/andreijeman/argus-web.git
+[submodule "argus-server"]
+	path = argus-server
+	url = https://github.com/andreijeman/argus-server.git
